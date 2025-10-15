@@ -8,9 +8,11 @@
         width: 300px;
 }
 
-.container{
-    margin-top: 20px;
-    margin-bottom: 20px;
+
+.div111{
+    margin-top: 8px;
+    margin-bottom: 10px;
+    
 }
 
 .baner123{
@@ -42,16 +44,9 @@ a{
     text-align: center;
 }
 
-.container-footer {
-    display: flex;
-    margin-left: 5rem;
-margin-top: -4rem;
-    margin-bottom:
-     5rem;
-  
-   
 
-}
+
+
 
 .icones-redes-sociais {
     display: flex;
@@ -90,7 +85,23 @@ margin-top: -0.5rem;
     background-color: rgb(224, 224, 224);
 }
 
-.zx {
+.divTest{
+    margin-left: 130px;
+}
+
+.div99{
+   
+
+}
+.div876{
     
+    display: flex;
+    margin-left: 14rem;
+
+}
+
+.div444{
+
+    margin-left: 2rem;
 }
 
